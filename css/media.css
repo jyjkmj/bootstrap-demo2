@@ -1,0 +1,278 @@
+@media (min-width: 992px) and (max-width:1920px){
+
+}
+
+
+@media (min-width: 992px) and (max-width:1200px){
+    #showmenu2 {
+        left: -836px;
+        float: left;
+    }
+
+}
+
+@media (min-width: 768px) and (max-width:992px){
+    .showbox1 div.leftxiugai{
+        margin-bottom: 0px;
+        padding: 0px;
+        width: 25%;
+        float: left;
+    }
+
+    .showbox1 div.rightxiugai{
+        margin-bottom: 10px;
+        padding: 0px;
+        width: 25%;
+        float: left;
+    }
+
+    #showmenu2 {
+        left: -608px;
+        float: left;
+    }
+
+    .navshow li {
+        margin-right: 18px;
+    }
+
+    .xgImg {
+        height: 352px !important;
+        width: auto;
+    }
+
+}
+
+@media (max-width: 767px){
+    .dropmenu{
+        background: #e2e2e2;
+    }
+
+    .leftlink li a.lovebtn{
+        border-style: none;
+        padding-top: 10px;
+        padding-bottom: 10px;
+        width: auto;
+        text-align: left;
+        margin-top: 0px;
+    }
+
+    .leftlink li a{
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .leftlink li a.marle{
+        margin-left: 0px;
+    }
+
+    .navlogo{
+        margin-left: 10px;
+    }
+
+    #navli li a{
+        color: #666666;
+        padding-top: 15px;
+        padding-bottom: 15px;
+        font-size: 16px;
+    }
+
+    .dropmenu ul li a{
+        color: #666666
+    }
+
+    .lunbotu{
+        padding: 20px;
+        /* height: 356px; */
+        width: auto;
+    }
+
+    /* .mainlbt{
+        height: 356px;
+        width: auto;
+    } */
+
+    .mainimg{
+        height: 356px;
+        width: auto;
+    }
+
+    .xgImg{
+        height: 356px !important;
+        width: auto;
+    }
+
+    .showhc{
+        display: none;
+    }
+
+    .fadelist{
+        display: none;
+    }
+
+    .showtxt{
+        display: none;
+    }
+
+    .dropmenu{
+        z-index: 10000 !important;
+    }
+
+    .showbox1{
+        margin-top: -35px;
+    }
+
+    .showbox1 div.leftxiugai{
+        margin-bottom: 0px;
+        padding: 0px;
+        width: 50%;
+        float: left;
+    }
+
+    .showbox1 div.rightxiugai{
+        margin-bottom: 10px;
+        padding: 0px;
+        width: 50%;
+        float: left;
+    }
+
+    .showbox1 div a{
+        margin: 0px;
+        text-align: center;
+    }
+
+    .btndl{
+        text-align: center;
+    }
+
+    .partnerli{
+        width: 50%;
+    }
+
+    .footleft{
+        padding-right: 0px;
+        padding-left: 0px;
+    }
+
+    
+
+    .infotxt .lovefast{
+        width: 100px;
+        height: 100px;
+    }
+
+    .locaTxt{
+        margin-right:40px;
+        margin-left: 40px;
+    }
+
+    .jszhici{
+        text-align:center;
+    }
+
+    .botnav{
+        text-align: center;
+    }
+
+    .copyright{
+        text-align: center;
+    }
+
+    .banquan{
+        text-align: center;
+    }
+
+    #showmenu11{
+        display: none !important;
+    }
+
+    #showmenu3{
+        display: none !important;
+    }
+
+    #showmenu2{
+        display: none !important;
+    }
+
+    #langage2 {
+        padding-left: 12px;
+    }
+
+    #changping:hover{
+        border-style:none;
+        color: #666666;
+    }
+
+    #fuwuser:hover{
+        border-style:none;
+        color: #666666;
+    }
+
+    #hezuo:hover{
+        border-style:none;
+        color: #666666;
+    }
+
+    #zhichis .service{
+        color: #666666;
+    }
+
+    .service:hover{
+        border-style:none !important;
+        color: #666666;
+    }
+
+    #langage1{
+        border-style:none !important;
+        color: #666666 !important;
+    }
+
+    #langage2{
+        border-style:none !important;
+        color: #666666 !important;
+    }
+
+    .lovebtn{
+        border-style:none !important;
+        color: #666666 !important;
+    }
+
+    .lovebtn:hover{
+        background:transparent !important;
+    }
+
+    #caret1{
+        display:block;
+    }
+
+    #caret2{
+        display: block;
+    }
+
+    .xplist{
+        display:block;
+        background: #fff;
+    }
+
+    #threelist{
+        display: block;
+    }
+
+}
+
+@media (max-width: 592px){
+    .leftxiugai{
+        width: 50%;
+        float: left;
+    }
+
+    .rightxiugai{
+        width: 50%;
+        float: left;
+    }
+
+    .xiaopinmu{
+        display: none;
+    }
+
+}
